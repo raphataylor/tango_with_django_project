@@ -6,3 +6,5 @@ app_name = 'rango'
 urlpatterns = [
     path('', views.index, name='index'),
 ]
+
+# hello test comment

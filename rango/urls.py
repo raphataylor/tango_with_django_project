@@ -10,6 +10,6 @@ urlpatterns = [
 
 
 # test mac branch
-=======
+
 # test windows branch
 
